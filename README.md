@@ -1,4 +1,4 @@
-# Description
+# Introduction
 Download Ubuntu packages (.deb) and all dependencies for offline installation by `apt-rdepends`.
 
 ## Default Output Directory
